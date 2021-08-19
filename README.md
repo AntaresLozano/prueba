@@ -3,8 +3,8 @@
 por : Kevin Lozano
 
 se Usó:
-HTML
-CSS
-JavaScript
-Nodejs
-Bootstrap
+HTML,
+CSS,
+JavaScript,
+Nodejs,
+Bootstrap.
